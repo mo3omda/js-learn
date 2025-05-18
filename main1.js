@@ -405,3 +405,7 @@ let last =myfriends.pop();
 
 console.log(myfriends);
 console.log(`my last name is ${last}`)
+
+console.log(myfriends);
+console.log(`my last name is ${last}`)
+//omda
